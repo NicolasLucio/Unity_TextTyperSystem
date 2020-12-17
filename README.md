@@ -1,6 +1,8 @@
 # Unity_TextTyperSystem
 A simple system to slowly type a text into a Text UI (or not).
 
+This project use Unity (2019.4.8f1)
+
 
 ## Example
 
